@@ -242,23 +242,13 @@ docker push public.ecr.aws/t5n9y4h0/suri-simple-mern-be-micro-profile-service:la
 
 - Create User IAM Permission ADD Policy
 
-![alt text](./capture-images/image-11.png)
-
 - Click on Add Permission
-
-![alt text](./capture-images/image-12.png)
 
 - I am already Attched Policy for my User
 
-![alt text](./capture-images/image-13.png)
-
 - Click on right side Quick Link -> My security credentials
 
-![alt text](./capture-images/image-14.png)
-
 - Under the AWS CodeCommit Credentials -> HTTPS Git credentials for AWS CodeCommit -> Generate Credentials -> Download Creditial -> DONE
-
-![alt text](./capture-images/image-15.png)
 
 - Push code to AWS CodeCommit
 
